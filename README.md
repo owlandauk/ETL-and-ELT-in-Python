@@ -1,4 +1,3 @@
-# ETL-and-ELT-in-Python
 # ETL and ELT in python
 
 ## ETL (Extract, Transform, Load)
